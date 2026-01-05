@@ -21,7 +21,17 @@ The system is designed for a pilot route between Boğaziçi University’s North
 ## Technologies
 - Python  
 - OpenCV  
-- NumPy  
+- NumPy
+  
+<h2>Repository Structure</h2>
+
+<pre><code>.
+├── data/               # Input videos and datasets
+├── outputs/            # Generated output videos and visual results
+├── report/             # Project report and documentation
+└── src/                # Source code for vision-based modules
+</code></pre>
+
 
 ## Key Features
 - Classical (non-AI) computer vision approach  
